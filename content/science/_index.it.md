@@ -1,8 +1,8 @@
 ---
-title: "Billing & Pricing"
+title: "Supporta la ricerca"
 date: 2018-12-28T11:02:05+06:00
 icon: "ti-credit-card"
-description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
+description: "Puoi attivamente supportare la ricerca scientifica sulla PSSD"
 type : "docs"
 ---
 

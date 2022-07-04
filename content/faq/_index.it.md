@@ -10,14 +10,12 @@ La disfunzione sessuale post-SSRI (PSSD, da Post-SSRI sexual dysfunction) è una
 {{< faq "Quali sono i farmaci che possono causare PSSD??" >}}
 
 Tutti i farmaci inibitori della ricaptazione della serotonina (SRI), tra cui gli antidepressivi comunemente usati. Gli SRI includono:
-
-- gli inibitori selettivi della ricaptazione della serotonina (SSRI) -- es. fluoxetina (Prozac, Sarafem, Rapiflux, Fluoxeren), paroxetina (Aropax, Daparox, Paxil, Pexeva, Seroxat, Sereupin, Brisdelle), sertralina (Zoloft), citalopram (Celexa, Elopram), escitalopram (Cipralex, Lexapro), Fluvoxamina (Fevarin, Luvox);
-- gli inibitori della ricaptazione della serotonina-norepinefrina (SNRI) -- es. Cymbalta (duloxetina), Effexor (venlafaxina), Pristiq (desvenlafaxina);
-- gli antidepressivi triciclici SRI -- es. Anafranil (clomipramina), Elavil (amitriptilina), Endep (amitriptilina), Norpramin (desipramina), Pamelor (nortriptilina), Sinequan (doxepina), Surmontil (trimipramina), Tofranil (imipramina), Vivactil (protriptil);
-- gli antistaminici SRI -- es. Zyrtec (cetirizina), Tavist (chlorpheniramina), Periactin (ciproeptadina), Clarinex, Aerius, Clarinex Reditabs, Neoclarityn (desloratadina), Benadryl (difenidramina), Allegra (fexofenadina), Claritin (loratadina), Phenergan (prometazina);
-- gli antibiotici tetraciclinici come la doxiciclina --es. doxiciclina, minociclina, tetraciclina; 
-- gli analgesici come il tramadolo.
-
+gli inibitori selettivi della ricaptazione della serotonina (SSRI);
+gli inibitori della ricaptazione della serotonina-norepinefrina (SNRI);
+gli antidepressivi triciclici SRI;
+gli antistaminici SRI;
+gli antibiotici tetraciclinici come la doxiciclina;
+gli analgesici come il tramadolo.
 {{</ faq >}}
 
 {{< faq "Quali sono i sintomi della PSSD?" >}}
@@ -71,13 +69,9 @@ Studi che hanno utilizzato questi fondi:
 * Giatti, S., Diviccaro, S., Cioffi, L., Falvo, E., Caruso, D., & Melcangi, R. C. (2021). Effects of paroxetine treatment and its withdrawal on neurosteroidogenesis. _Psychoneuroendocrinology_, 132, 105364.
 
 È importante anche riportare la propria esperienza, per aumentare la consapevolezza del problema. Alcuni modi:
-* Pubblicare la propria testimonianza nel sito [postssrisyndrome.org](postssrisyndrome.org) (scrivere a info chiocciola postssrisyndrome.org)
+* Pubblicare la propria testimonianza nel sito [postssrisyndrome.org](https://postssrisyndrome.org) (scrivere a info chiocciola postssrisyndrome.org)
 * Pubblicare la propria testimonianza su altri siti che trattano di PSSD.
 * Riportare la propria esperienza ovunque è possibile commentare (articoli di medici, di media, post, video). Un esempio: https://psichiatra-a-milano.it/domande/psicofarmaci/pssd/
-{{</ faq >}}
-
-{{< faq "What happens after I download?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
 {{</ faq >}}
 
 ## Riferimenti

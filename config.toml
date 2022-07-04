@@ -1,10 +1,10 @@
 ################################# Default configuration ###################
 # provide your domain here
 baseURL = "https://postssrisyndrome.github.io/pssd-info"
-# theme
+# Theme
 theme = "dot-hugo"
 # site title
-title = "Dot"
+title = "Post SSRI Syndrome"
 # disable language
 disableLanguages = []
 # google analytics
@@ -23,7 +23,7 @@ logo_white = ""
 # when logo is empty, it will shown your site title
 
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "Informazioni sulla disfunzione sessuale persistente post-SSRI"
 author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
@@ -130,68 +130,68 @@ hasChildren = true
   weight = 3
 
 
-################################### Franch Language ######################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
+################################### Italian Language ######################
+[Languages.it]
+languageName = "It"
+languageCode = "it-it"
 weight = 2
 copyright = "Copyright &copy; 2021 un thème Hugo par [Gethugothemes](https://gethugothemes.com/)"
 
 # banner
-[Languages.fr.params.banner]
-title = "Comment pouvons nous aider?"
-subtitle = "Trouvez rapidement des conseils et des réponses auprès de notre équipe d'assistance ou contactez-nous."
+[Languages.it.params.banner]
+title = "Disfunzione sessuale post-SSRI"
+subtitle = "Informazioni e notizie sulla disfunzione sessuale persistente post-SSRI"
 bg_image = "images/banner.jpg"
-placeholder = "Avoir une question? Il suffit de demander ici ou de saisir les termes"
+placeholder = "Hai una domanda? Prova a cercare"
 
 # call to action
-[Languages.fr.params.cta]
+[Languages.it.params.cta]
 enable = true
-title = "Vous n'avez pas trouvé de réponse à votre question?"
-content = "Contactez-nous pour plus de détails sur les services supplémentaires et la tarification du travail personnalisé"
+title = "Non hai trovato risposta alle tue domande?"
+content = "Contattaci per ulteriori informazioni"
 # call to action button
-[Languages.fr.params.cta.button]
+[Languages.it.params.cta.button]
 enable = true
-label = "Contactez nous"
+label = "Contatti"
 link = "contact/"
 
 
 ################## french navigation #################
-[[Languages.fr.menu.main]]
-name = "Accueil"
-url = "/"
+[[Languages.it.menu.main]]
+name = "Home"
+url = ""
 weight = 1
 
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 name = "Faq"
 url = "faq/"
 weight = 2
 
-[[Languages.fr.menu.main]]
-name = "contact"
+[[Languages.it.menu.main]]
+name = "contatti"
 url = "contact/"
 weight = 3
 
 # Dropdown menu
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 weight = 4
 name = "docs"
 hasChildren = true
 
-  [[Languages.fr.menu.main]]
+  [[Languages.it.menu.main]]
   parent = "docs"
-  name = "Installation"
-  url = "installation/"
+  name = "La sindrome"
+  url = "the-syndrome/"
   weight = 1
 
-  [[Languages.fr.menu.main]]
+  [[Languages.it.menu.main]]
   parent = "docs"
-  name = "Billing and Pricing"
-  url = "billing-pricing/"
+  name = "News"
+  url = "news/"
   weight = 2
 
-  [[Languages.fr.menu.main]]
+  [[Languages.it.menu.main]]
   parent = "docs"
-  name = "Features"
-  url = "features/"
+  name = "Scienza"
+  url = "science/"
   weight = 3
